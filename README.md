@@ -19,7 +19,7 @@ https://docs.google.com/document/d/1PAoPz-3vDPFWS5q9RHRb-dC7T4earpFXJW8w6v9wfZ0/
 
 
 
-## Week 1
+## Week 2
 
 ### Context
 
@@ -43,3 +43,39 @@ This reading has a satirical view of smart technology and the Internet of Things
     1. Text, photos, etc.
     1. Describe the most important thing you learned (to share in class)
     1. Write a quiz question (which we will discuss in class)
+
+
+
+
+Experiment 1: Taste the power
+    I. A tongue in this experiment is acting as a resistor. Ohms are a unit of measurement used to describe electrical resistance.
+    II. Quiz question: What is the symbol for Ohms?
+Experiment 2: Abuse a battery
+
+Describe Ohm's Law using the water analogy.
+    In the water analogy, the pressure in a tank that holds water can be compared to voltage. Current is represented by the water flowing through a pipe connected to the tank. Resistance is how wide the pipe is, which limits how much water can exit the tank.
+
+Understand three differences between DC and AC. 
+DC is direct current, and it comes from batteries. It is like the water analogy because it is direct flow from one point to another. AC stands for alternating current because it constantly switches back and forth from positive to negative. AC allows for power to be sent longer distances, which is why it is used in powering homes. DC currents, because they come from batteries, can supply a wide range of volts depending on what type of battery you buy. AC, on the other hand, in the US, has a more standardized supply of 110-120 volts.
+
+Experiment 3: Your First Circuit
+Identify a resistor's value using both a color chart and a multimeter
+Use a multimeter to check voltage and resistance of components.
+Demonstrate a basic circuit with an LED, resistor, battery, and Ohm's Law. 
+Collin's Lab: LEDs (5:29), Resistors (5:08), Ohm's Law (7:09)
+Experiment 4: Variable Resistance
+⚠️ Don't destroy the potentiometer.
+Build a circuit that dims an LED with a potentiometer.
+Describe polarity in the context of electronics.
+Demonstrate how to check voltage across parts of a circuit.
+Demonstrate how to measure current in a circuit.
+Compare current vs. voltage measurements throughout components in a circuit.
+Use Ohm's Law to calculate resistance.
+Create circuits using LEDs in both series and parallel. 
+
+
+Experiment 5: Let's Make a Battery
+⚠️ Read this section but don't do the lemon experiment.
+Define and describe the relationship between volts, current, and watts.
+Explain what happens to voltage, current, and watts (time) when batteries are placed in series vs. in parallel.
+
