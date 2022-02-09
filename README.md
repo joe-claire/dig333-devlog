@@ -39,17 +39,11 @@ This reading has a satirical view of smart technology and the Internet of Things
 
 <!-- List each Platt experiment / Monk recipe outcome, adding notes, photos, schematics, captions to show your work. -->
 
-1. Name of the experiment
-    1. Text, photos, etc.
-    1. Describe the most important thing you learned (to share in class)
-    1. Write a quiz question (which we will discuss in class)
-
-
-
 
 Experiment 1: Taste the power
     I. A tongue in this experiment is acting as a resistor. Ohms are a unit of measurement used to describe electrical resistance.
     II. Quiz question: What is the symbol for Ohms?
+    
 Experiment 2: Abuse a battery
 
 Describe Ohm's Law using the water analogy.
@@ -58,24 +52,35 @@ Describe Ohm's Law using the water analogy.
 Understand three differences between DC and AC. 
 DC is direct current, and it comes from batteries. It is like the water analogy because it is direct flow from one point to another. AC stands for alternating current because it constantly switches back and forth from positive to negative. AC allows for power to be sent longer distances, which is why it is used in powering homes. DC currents, because they come from batteries, can supply a wide range of volts depending on what type of battery you buy. AC, on the other hand, in the US, has a more standardized supply of 110-120 volts.
 
-Experiment 3: Your First Circuit
-Identify a resistor's value using both a color chart and a multimeter
-Use a multimeter to check voltage and resistance of components.
-Demonstrate a basic circuit with an LED, resistor, battery, and Ohm's Law. 
-Collin's Lab: LEDs (5:29), Resistors (5:08), Ohm's Law (7:09)
-Experiment 4: Variable Resistance
-⚠️ Don't destroy the potentiometer.
-Build a circuit that dims an LED with a potentiometer.
-Describe polarity in the context of electronics.
-Demonstrate how to check voltage across parts of a circuit.
-Demonstrate how to measure current in a circuit.
-Compare current vs. voltage measurements throughout components in a circuit.
-Use Ohm's Law to calculate resistance.
-Create circuits using LEDs in both series and parallel. 
+Quiz question: What is the purpose of a battery's + and - sides?
 
+Experiment 3: Your First Circuit
+
+![IMG_6438](https://user-images.githubusercontent.com/98902048/153247613-4f21cb78-c013-4827-8dab-04d3dca8f5bc.JPEG)
+This is a picture of our group testing the voltage of a battery pack. We learned that changing which wires are connected to the multimeter will determine if the multimeter provides a positive or negative reading. 
+![IMG_6439](https://user-images.githubusercontent.com/98902048/153246794-2e2ecbb0-1ba2-4429-bb8d-17386b403c24.JPEG)
+In this picture, our group was combining three battery packs in series to burn out an LED. You can see that we are measuring the voltage of multiple battery packs combined, which is why the multimeter is reading higher than if we were measuring just one battery pack. 
+Quiz question: What is the importance of having the proper degree of resistance in your circuit?
+
+
+Experiment 4: Variable Resistance
+
+Polarity is the concept that electricity will flow from one positive point to a negative point. This is why batteries have positive and negative sides. This allows for the current to be sent from one side of the battery to the other via powering a circuit.
+
+Current measurements in a circuit indentify the rate of electricity moving at a point on a circuit. Voltage is the potential force to move electricity through a circuit. 
+
+Ohm's law: voltage = current × resistance
+
+If you know the voltage and current, you can divide voltage by amps to get the resistance.
+Example: 12v battery = 4amps x ______
+The resistance is 3Ω.
+Quiz question: How would the voltage reading change when using a multimeter on a parallel vs series circuit?
 
 Experiment 5: Let's Make a Battery
-⚠️ Read this section but don't do the lemon experiment.
-Define and describe the relationship between volts, current, and watts.
-Explain what happens to voltage, current, and watts (time) when batteries are placed in series vs. in parallel.
+
+Volts are the pressure or potential energy in a circuit, the current is the rate of flow in the circuit, and watts are the potential to do work. 1 volt = 1 watt/ 1 amp
+
+When batteries are in parallel, there is a greater total length of time to power the circuit. Putting the batteries in series doubles the voltage but reduces the amount of time that the batteries will power the circuit.
+
+Quiz question: True or false: Batteries in parallel can deliver twice the current in the same amount of time as batteries in series.
 
