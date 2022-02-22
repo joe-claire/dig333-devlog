@@ -84,3 +84,17 @@ When batteries are in parallel, there is a greater total length of time to power
 
 Quiz question: True or false: Batteries in parallel can deliver twice the current in the same amount of time as batteries in series.
 
+
+## Week 4
+Pay for the Printer by Philip K. Dick (1956)
+This short story is about a post apocalyptic world where nobody knows how to make things. Aliens have moved in to earth with the capability of copying things for people, which has replaced the need for humans to know how to create. But this alien species is dying and people are running out of options, so they have to return to making things on their own– a foreign challenge to many of them. 
+“He indicated the crude wooden cup. ‘That's where we are right now. Don't laugh at it. Don't say it's not civilization. It is -- it's simple and crude, but it's the real thing. We'll go up from here.’”
+The premise of civilization collapsing when we learn how to make new things is super interesting to me. It communicates the idea that a core part of humanity is creativity and the ability to make. 
+This was a futuristic story at the time it was written, but now to us in 2022 it takes place in the past. How might it be interpreted differently by readers over the years?
+
+The Preserving Machine by Philip K. Dick (1953)
+This is another short story by Philip K. Dick. A man wants to preserve sheet music, so he creates a machine that installs sheet music inside different animals, allowing him to later reverse the process to retrieve the music from the animals. But a problem arises– the music is altered in the copying process and is now a gross distorted version of the original. The animals themselves are no longer tame but become violent. The project is deemed a failure.
+"Only time will tell," I said. "Even though this method failed, some other may work; something that we can't foresee or predict now may come along, some day."
+Both of these stories have examples of people wanting to copy and preserve things, but they resort to machines or other systems instead of doing it themselves. I think part of the goal of these stories is to remind us that our ability to create is unparalleled.
+What is the significance of the beetle at the end?
+
