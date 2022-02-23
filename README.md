@@ -98,3 +98,17 @@ This is another short story by Philip K. Dick. A man wants to preserve sheet mus
 Both of these stories have examples of people wanting to copy and preserve things, but they resort to machines or other systems instead of doing it themselves. I think part of the goal of these stories is to remind us that our ability to create is unparalleled.
 What is the significance of the beetle at the end?
 
+## Week 5
+
+Everything That’s Inside Your iPhone by Brian Merchant (2017)
+This article explores the sources of the materials used in iPhones. The author completely disassembled an iPhone for the sake of identifying all of the elements inside of it. They also describe some of the mines that extract these raw materials and the dangerous conditions that are challenging to regulate.
+"It makes for a vast web of companies, organizations, and actors; Apple directly purchases few of the raw materials that wind up in its products. That's true of many companies that manufacture smartphones, computers, or complex machinery—most rely on a tangled web of third-party suppliers to produce their stuff, which makes it difficult to draw direct lines from a specific device to a specific mine."
+It's interesting to consider that we are taking raw materials in their natural forms and turning them into something very unnatural, which is a challenging process to reverse. This makes it hard to recycle the natural materials used. Meanwhile, Apple markets iPhones like they need to be replaced every year or two, which is a very unsustainable approach.
+What are the recycling processes like for iPhones? How much can be repurposed and how much is wasted?
+
+One Man's Nearly Impossible Quest to Make a Toaster From Scratch by Rachel Swaby
+More components than meet the eye go into even the simplest technology we can purchase from a store. Thomas Thwaites discovered this by disassembling a toaster in hopes of making one for himself from scratch. In the end, he was only partially successful because his version started melting itself.
+"The world produces something like 260 million tons of plastic annually, up from 1.5 million tons in 1950."
+There are some components (wires, switches, chips, etc) that we view as essential now that are almost treated like raw materials on their own. It means that we can take for granted the creation of these materials themselves. We are used to just buying components on Amazon, but it gets much more challenging when you start building something completely from scratch.
+What makes some plastics able to be recycled and not others?
+
