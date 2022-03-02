@@ -112,3 +112,20 @@ More components than meet the eye go into even the simplest technology we can pu
 There are some components (wires, switches, chips, etc) that we view as essential now that are almost treated like raw materials on their own. It means that we can take for granted the creation of these materials themselves. We are used to just buying components on Amazon, but it gets much more challenging when you start building something completely from scratch.
 What makes some plastics able to be recycled and not others?
 
+Platt Experiments 6-10
+List each Platt experiment / Monk recipe outcome
+Add notes about your process
+Add photos, schematics, captions to show your work.
+Describe 1-3 important concepts from the experiment
+Write a potential quiz question (which we will discuss in class)
+
+Experiment 6: Very Simple Switching
+![img_5105](https://user-images.githubusercontent.com/98902048/156371617-9fcc395c-d139-494f-989e-1f9d6daadad4.jpg)
+1. This circuit that we made involves two double throw switches. Combinations of both of these together will turn the LED on or off.
+2. Quiz question: Why do you want to avoid sparking with switches? How can this be avoided?
+
+
+Experiment 7: Investigating a Relay
+
+Quiz question: What is the significance of polarity in relays?
+
