@@ -126,8 +126,13 @@ Experiment 6: Very Simple Switching
 
 
 Experiment 7: Investigating a Relay
-
+https://user-images.githubusercontent.com/98902048/156414204-2cb3b755-4c34-4420-bc94-e33d4b746025.mov
+This experiment demonstrates the function of a relay, which will turn a circuit on or off depending on if you send a current to it. It works by charging up a coiled wire inside the relay that turns on the circuit. 
 Quiz question: What is the significance of polarity in relays?
+
+Experiment 8: A Relay Oscillator
+![IMG_6687 2](https://user-images.githubusercontent.com/98902048/156416120-38dd2089-e432-4735-8c41-0f11221261a5.jpg)
+
 
 ## Week 6 
 Igloo White By John T. Correll
