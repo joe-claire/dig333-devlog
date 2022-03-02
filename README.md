@@ -129,3 +129,18 @@ Experiment 7: Investigating a Relay
 
 Quiz question: What is the significance of polarity in relays?
 
+## Week 6 
+Igloo White By John T. Correll
+1. This reading narrates the history of military operations in Vietnam that employed new sensory technology to detect enemies on the move. The US developed sensors that would be triggered by urine, audio, vibrations in the ground, and more. Then they would send in troops to destroy these areas that the sensors detected. The success of this operation is debated but it was a defining moment in the use of technology in war and sensory technology in general.
+2. "Even at the peak of the bombing, the North Vietnamese were building one or two miles of new road a day. In 1972, North Vietnamese tanks appeared in South Vietnam, having come all the way down the trail without being detected, much less stopped." 
+3. Even with exisitng technology in place that is functional, the deployment and use of it often determines its effectiveness. 
+4. What roles do sensors play in warfare today? And what kinds of technology exist to help avoid sensory detection?
+
+Unseen Sensors: Constantly Sensing but Rarely Seen by Mayo Nissen
+1. Data collection in recent years has become a profitable enterprise that can be disguised as security. This reading covers a variety of urban sensors that collect and submit data, but the usage of this data is vague. Some sensors mentioned are more ethically questionable while others are harmless.
+2. "Our future won’t arrive in a sweeping, clearly defined transformation represented by an inevitably shiny rendering or seductively simple diagram, even if those are the futures that make headlines. Rather these changes happen incrementally, infiltrating our everyday bit by bit as technology falls in price and grows in utility, availability, and reliability, and becomes socially and politically palatable."
+3. Part of the fear behind surveillance isn't the presence of a sensor itself but more so what the data is used for and who reviews it. 
+4. Name an example of an urban sensor and consider a way that its data could be sold for profit.
+
+
+
