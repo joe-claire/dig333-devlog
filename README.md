@@ -147,5 +147,12 @@ Unseen Sensors: Constantly Sensing but Rarely Seen by Mayo Nissen
 3. Part of the fear behind surveillance isn't the presence of a sensor itself but more so what the data is used for and who reviews it. 
 4. Name an example of an urban sensor and consider a way that its data could be sold for profit.
 
+## Week 7
+Name of the experiment
+Text, photos, etc.
+Describe the most important thing you learned (to share in class)
+Write a quiz question (which we will discuss in class)
+Monk Chapter 9: Hardware Basics
+
 
 
